@@ -1,0 +1,55 @@
+
+*{
+    font-family: 'DancingScript';
+    font-size: 20px;
+}
+@font-face {
+  font-family: 'DancingScript';
+  src: url('DancingScript.ttf');
+}
+
+#nombreBlog{
+  text-align: right;
+  background: rgba(76, 175, 80, 0.5);
+  border-radius: 10px 10px 0 0 ;
+    font-family: 'DancingScript';
+
+}
+
+a{
+  padding: 2px;
+}
+.todo{
+  background-image: url(fondo.jpg);
+  background-position: right top;
+  background-attachment: fixed;
+    font-family: 'DancingScript';
+}
+
+#buscador{
+  background: rgba(76, 175, 80, 0.5);
+}
+#navegacion{
+  background: rgba(76, 175, 80, 0.5);
+}
+#imagenes{
+  background: rgba(76, 175, 80, 0.5);
+
+}
+#links{
+   border-radius: 0 0 10px 10px;
+  background: rgba(76, 175, 80, 0.5);
+}
+h3{
+    font-family: 'DancingScript';
+    font-size: 40px;
+}
+h5{
+    font-family: 'DancingScript';
+    font-size: 20px;
+}
+li{
+color: red;
+
+
+}

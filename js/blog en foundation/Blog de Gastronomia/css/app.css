@@ -1,0 +1,40 @@
+.ok{
+  text-align: right;
+}
+.chef{
+  border-right: 1px solid black;
+}
+.sito{
+  border-bottom: 1px solid black;
+}
+#buscar{
+  margin-top: 2%;
+}
+.info{
+  background-color: #D2B48C;
+  background: rgba(76, 175, 80, 0.5);
+}
+.enca{
+  background-color: #BC8F8F;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background: rgba(76, 175, 80, 0.5);
+}
+.todo{
+  background-image: url(fondo.jpg);
+  background-position: right top;
+  background-attachment: fixed;
+}
+.bati{
+  background-color: rgba(149, 255, 248, 1);
+}
+.font{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.coment{
+  border: 0.5px solid grey;
+  border-radius: 10px 10px;
+}
+.topi{
+  border-top: 1px solid black;
+}

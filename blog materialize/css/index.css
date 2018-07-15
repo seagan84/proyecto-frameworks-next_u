@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'DancingScript';
+  src: url('DancingScript.ttf');
+}
+#eslogan{
+    font-family: 'DancingScript';
+}
+img{
+  padding: 4px;
+}
+
+.comentarios{
+padding: 20px;
+background-color: #282659;
+color: white;
+}
+
+.titulo-comentario{
+font-size: 22px;
+}
+
+body{
+background-image: url('../img/fondo.jpg');
+background-size: cover;
+background-attachment: fixed;
+background-position: center top;
+}
+.prefix{
+  text-decoration-color: #4a148c;
+}
+div img h5{
+  text-decoration:line-through;
+}
